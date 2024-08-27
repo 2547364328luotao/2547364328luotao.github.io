@@ -4246,11 +4246,11 @@ h1.page-title + .tag-cloud-list {
   transition: box-shadow 0.3s ease-in-out;
   overflow: hidden;
   border-radius: 12px !important;
-  background: -webkit-linear-gradient(90deg, #fff1eb 0%, #ace0f9 100%);
-  background: -moz-linear-gradient(90deg, #fff1eb 0%, #ace0f9 100%);
-  background: -o-linear-gradient(90deg, #fff1eb 0%, #ace0f9 100%);
-  background: -ms-linear-gradient(90deg, #fff1eb 0%, #ace0f9 100%);
-  background: linear-gradient(0deg, #fff1eb 0%, #ace0f9 100%);
+  background: -webkit-linear-gradient(81deg, #daf5ff 0%, #fdffd7 100%);
+  background: -moz-linear-gradient(81deg, #daf5ff 0%, #fdffd7 100%);
+  background: -o-linear-gradient(81deg, #daf5ff 0%, #fdffd7 100%);
+  background: -ms-linear-gradient(81deg, #daf5ff 0%, #fdffd7 100%);
+  background: linear-gradient(9deg, #daf5ff 0%, #fdffd7 100%);
 }
 #post .post-copyright:before {
   background: var(--heo-post-blockquote-bg);
