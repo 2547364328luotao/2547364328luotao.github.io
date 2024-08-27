@@ -432,7 +432,7 @@ h6::before {
 /* 一图流 */
 /* 页脚与头图透明 */
 #footer {
-    background: rgba(43, 42, 42, 0.8) !important;
+    background: rgba(43, 42, 42, 0.4) !important;
 }
 
 #page-header {
